@@ -15,4 +15,3 @@ layout - ConstraintLayout
 db - Sqlite
 
 
-# Mynote
